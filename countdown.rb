@@ -1,10 +1,10 @@
 #write your code here
 
 def countdown(number_of_sec)
-  x=2
+  x=number_of_sec
     while x<number_of_sec
   puts "#{x} SECOND(S)!"
-  x+=1
+  x-=1
 end
 end
 
