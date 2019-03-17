@@ -2,7 +2,7 @@
 
 def countdown(number_of_sec)
   x=number_of_sec
-    while x<number_of_sec
+    while x>1
   puts "#{x} SECOND(S)!"
   x-=1
 end
