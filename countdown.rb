@@ -9,5 +9,8 @@ end
 end
 
 def countdown_with_sleep(number)
-  
+  x=0
+  while run.real.to_i>=number
+  puts true 
+end 
 end
