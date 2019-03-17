@@ -3,7 +3,7 @@
 def countdown(number_of_sec)
   x=1 
     while x<number_of_sec
-  return  "HAPPY NEW YEAR!"
+  puts "HAPPY NEW YEAR!"
   x+=1
 end
 end
